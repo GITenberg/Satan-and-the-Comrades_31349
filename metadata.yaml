@@ -1,0 +1,27 @@
+_repo: Satan-and-the-Comrades_31349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennitt, Ralph
+    gutenberg_agent_id: '35171'
+    url: http://www.gutenberg.org/2009/agents/35171
+description: ''
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devil -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Soviet Union -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Hell -- Fiction'
+title: Satan and the Comrades
+url: http://www.gutenberg.org/ebooks/31349
